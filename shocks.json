@@ -1,0 +1,35 @@
+[
+  {
+    "id": "textile-union-strike",
+    "name": "Textile Union Strike",
+    "description": "Workers walk out across the mills. Textile listings fall 15%.",
+    "sector_modifiers": {
+      "Textiles & Mills": -0.15
+    }
+  },
+  {
+    "id": "harshad-mehta-bull-run",
+    "name": "Harshad Mehta Bull Run",
+    "description": "A wave of buying lifts banking and trading houses by 15%.",
+    "sector_modifiers": {
+      "Banking & Finance": 0.15,
+      "Trading Houses": 0.15
+    }
+  },
+  {
+    "id": "steel-tariff-hike",
+    "name": "Steel Tariff Hike",
+    "description": "New import duties raise input costs. Steel and heavy infra fall 10%.",
+    "sector_modifiers": {
+      "Steel & Heavy Infra": -0.10
+    }
+  },
+  {
+    "id": "credit-squeeze",
+    "name": "Credit Squeeze",
+    "description": "Tight liquidity pressures banks and finance houses by 8%.",
+    "sector_modifiers": {
+      "Banking & Finance": -0.08
+    }
+  }
+]

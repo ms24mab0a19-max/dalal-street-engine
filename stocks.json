@@ -1,0 +1,62 @@
+[
+  {
+    "id": "IDM",
+    "name": "Imperial Dyeing & Mills",
+    "sector": "Textiles & Mills",
+    "base_price": 120
+  },
+  {
+    "id": "SWF",
+    "name": "Swadeshi Fabrics",
+    "sector": "Textiles & Mills",
+    "base_price": 85
+  },
+  {
+    "id": "ASC",
+    "name": "Apex Steel Corp",
+    "sector": "Steel & Heavy Infra",
+    "base_price": 250
+  },
+  {
+    "id": "BHC",
+    "name": "Bharat Heavy Castings",
+    "sector": "Steel & Heavy Infra",
+    "base_price": 180
+  },
+  {
+    "id": "PTR",
+    "name": "Paramount Traders",
+    "sector": "Trading Houses",
+    "base_price": 310
+  },
+  {
+    "id": "CG",
+    "name": "Continental General",
+    "sector": "Trading Houses",
+    "base_price": 145
+  },
+  {
+    "id": "ZEN",
+    "name": "Zenith Enterprises",
+    "sector": "Trading Houses",
+    "base_price": 95
+  },
+  {
+    "id": "BCB",
+    "name": "Bombay Commercial Bank",
+    "sector": "Banking & Finance",
+    "base_price": 420
+  },
+  {
+    "id": "ATF",
+    "name": "Apex Trust & Finance",
+    "sector": "Banking & Finance",
+    "base_price": 210
+  },
+  {
+    "id": "IUM",
+    "name": "Indo-Union Mutual",
+    "sector": "Banking & Finance",
+    "base_price": 160
+  }
+]
