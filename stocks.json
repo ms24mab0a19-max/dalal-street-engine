@@ -1,62 +1,62 @@
 [
   {
-    "id": "IDM",
-    "name": "Imperial Dyeing & Mills",
-    "sector": "Textiles & Mills",
-    "base_price": 120
+    "ticker": "BHMT",
+    "name": "Bharat Motors",
+    "sector": "Auto",
+    "base_price": 218.5
   },
   {
-    "id": "SWF",
-    "name": "Swadeshi Fabrics",
-    "sector": "Textiles & Mills",
-    "base_price": 85
+    "ticker": "VAHN",
+    "name": "Vahan Auto Parts",
+    "sector": "Auto",
+    "base_price": 92.75
   },
   {
-    "id": "ASC",
-    "name": "Apex Steel Corp",
-    "sector": "Steel & Heavy Infra",
-    "base_price": 250
+    "ticker": "TARA",
+    "name": "Tarakeshwar Textiles",
+    "sector": "Textiles",
+    "base_price": 78.5
   },
   {
-    "id": "BHC",
-    "name": "Bharat Heavy Castings",
-    "sector": "Steel & Heavy Infra",
-    "base_price": 180
+    "ticker": "SHAL",
+    "name": "Shalimar Consumer Products",
+    "sector": "Consumer Goods",
+    "base_price": 311.25
   },
   {
-    "id": "PTR",
-    "name": "Paramount Traders",
-    "sector": "Trading Houses",
-    "base_price": 310
+    "ticker": "MRDN",
+    "name": "Meridian IT Services",
+    "sector": "IT & Computers",
+    "base_price": 264.5
   },
   {
-    "id": "CG",
-    "name": "Continental General",
-    "sector": "Trading Houses",
-    "base_price": 145
+    "ticker": "NAVR",
+    "name": "Navrang Electronics",
+    "sector": "Consumer Electronics",
+    "base_price": 178.0
   },
   {
-    "id": "ZEN",
-    "name": "Zenith Enterprises",
-    "sector": "Trading Houses",
-    "base_price": 95
+    "ticker": "ARVL",
+    "name": "Aravali Pharmaceuticals",
+    "sector": "Pharma",
+    "base_price": 402.0
   },
   {
-    "id": "BCB",
-    "name": "Bombay Commercial Bank",
-    "sector": "Banking & Finance",
-    "base_price": 420
+    "ticker": "SNJV",
+    "name": "Sanjeevani Drugs & Labs",
+    "sector": "Pharma",
+    "base_price": 135.5
   },
   {
-    "id": "ATF",
-    "name": "Apex Trust & Finance",
-    "sector": "Banking & Finance",
-    "base_price": 210
+    "ticker": "VAJR",
+    "name": "Vajra Steel & Power",
+    "sector": "Steel & Energy",
+    "base_price": 187.25
   },
   {
-    "id": "IUM",
-    "name": "Indo-Union Mutual",
-    "sector": "Banking & Finance",
-    "base_price": 160
+    "ticker": "KNRK",
+    "name": "Konark Petrochemicals",
+    "sector": "Oil & Petrochemicals",
+    "base_price": 256.0
   }
 ]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "round-1-strategic-stake-tax-scrutiny",
+    "round": 1,
+    "name": "Strategic Stake & Tax Scrutiny",
+    "description": "A strategic stake purchase re-rates the auto and IT counters, while income-tax raids knock Aravali Pharmaceuticals.",
+    "company_modifiers": {
+      "BHMT": 0.12,
+      "VAHN": 0.08,
+      "MRDN": 0.08,
+      "ARVL": -0.15
+    },
+    "sector_modifiers": {}
+  },
+  {
+    "id": "round-2-rupee-devaluation",
+    "round": 2,
+    "name": "July 1991 Rupee Devaluation",
+    "description": "The rupee is devalued in two steps. Exporters gain, but imported picture-tube costs crush Navrang Electronics.",
+    "company_modifiers": {
+      "TARA": 0.18,
+      "NAVR": -0.14
+    },
+    "sector_modifiers": {}
+  },
+  {
+    "id": "round-3-gulf-war-oil-spike",
+    "round": 3,
+    "name": "Gulf War Oil Spike",
+    "description": "Crude spikes as Gulf War supply lines break. Konark Petrochemicals revalues its inventory sharply higher.",
+    "company_modifiers": {
+      "KNRK": 0.25
+    },
+    "sector_modifiers": {}
+  },
+  {
+    "id": "round-4-political-collapse-soviet-crisis",
+    "round": 4,
+    "name": "Political Collapse & Soviet Crisis",
+    "description": "The government falls and Soviet payments freeze. Steel and pharma slide while peace hopes collapse the oil price.",
+    "company_modifiers": {
+      "VAJR": -0.15,
+      "SNJV": -0.18,
+      "KNRK": -0.3
+    },
+    "sector_modifiers": {}
+  }
+]

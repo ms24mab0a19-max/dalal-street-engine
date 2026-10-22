@@ -1,3 +1,2 @@
-streamlit
-pandas
-plotly
+streamlit>=1.57,<2
+pandas>=2.2,<3
